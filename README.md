@@ -2,7 +2,6 @@ hack your mind with ArchLabs on ThinkPad. I am 21 faces. hahahahaha
 
 Toppage..: https://extr3m4r4710.github.io/0x1248723/ </br>
 Blog..: https://extr3m4r4710.github.io/zen-conf-record/ </br>
-Lab..: https://zen-conf-record.hatenablog.jp/ </br>
 Email..: Alanibr2049[@]protonmail[.]com </br>
 Simplex..: SimpleX: https://tinyurl.com/8704765 (電話番号等不要でやり取りできます) <br>
 Matrix..: @higashiya:matrix[.]org<br/>
