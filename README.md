@@ -11,8 +11,6 @@ PlayH43k..: `ssh -D 1080 root@segfault.net`
 
 Nim is absolutely challenging.
 
-Documentation account: [@nllkoras](https://github.com/sanatamura)</br>
-
 NzxSec is a personal project aimed at developing NzxVox and its components</br>
 
 NzxSec repo: [https://github.com/NzxSec](https://github.com/NzxSec)</br>
