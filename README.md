@@ -11,6 +11,6 @@ PlayH43k..: `ssh -D 1080 root@segfault.net`
 
 Nim is absolutely challenging.
 
-NzxSec is a personal project aimed at developing NzxVox and its components</br>
+ReconSecurityLab is a personal project aimed at developing NzxVox and its components</br>
 
-NzxSec repo: [https://github.com/NzxSec](https://github.com/NzxSec)</br>
+ReconSecurityLab repo: [https://github.com/reconsecuritylab](https://github.com/reconsecuritylab)</br>
