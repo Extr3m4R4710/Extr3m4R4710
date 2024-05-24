@@ -13,4 +13,4 @@ Nim is absolutely challenging.
 
 ReconSecurityLab is a personal project aimed at developing NzxVox and its components</br>
 
-ReconSecurityLab repo: [https://github.com/reconsecuritylab](https://github.com/reconsecuritylab)</br>
+ReconSecurityLab repo: [https://github.com/recon-security-lab](https://github.com/recon-security-lab)</br>
