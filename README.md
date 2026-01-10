@@ -24,5 +24,5 @@ https://gist.github.com/extr3m4r4710
 ## Mastodon
 https://infosec.exchange/@f645ca05
 ## Twitter(X)
-https://x.com/0x4b70e37f9
+https://nitter.net/0x4b70e37f9
 
