@@ -15,8 +15,8 @@
   - https://extr3m4r4710.github.io/0x1248723/
 - Blog
   - https://extr3m4r4710.github.io/zen-conf-record/
-- Tumblr
-  - https://llllark.tumblr.com/
+- Notion
+  - https://www.notion.so/Lark-Book-360d657eadaa80d4beaed7377fdd8c19
 - GitHub
   - https://github.com/extr3m4r4710
 - GitHub Gist
