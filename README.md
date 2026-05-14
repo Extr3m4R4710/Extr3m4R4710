@@ -16,7 +16,7 @@
 - Blog
   - https://extr3m4r4710.github.io/zen-conf-record/
 - Notion
-  - https://www.notion.so/Lark-Book-360d657eadaa80d4beaed7377fdd8c19
+  - https://sturdy-riddle-999.notion.site/Lark-Book-429cdb005dde8338a413819e420999c6
 - GitHub
   - https://github.com/extr3m4r4710
 - GitHub Gist
